@@ -1,6 +1,6 @@
 # vsEat
 
-> Um simples codigo de encher fome e sede para FiveM
+> Ao dar /eat sua fome e sede será setada para 100%, claro se voce for STAFF né?
 
 > Framework: vRPex
 
