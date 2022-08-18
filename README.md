@@ -1,6 +1,6 @@
 # vsEat
 
-> Ao dar /eat sua fome e sede será setada para 100%, claro se voce for STAFF né? Tambem temos o /eat ID que seta colete ao ID solicitado.
+> Ao dar /eat sua fome e sede será setada para 100%, claro se voce for STAFF né? Tambem temos o /eat ID que seta fome e sede 100% no ID solicitado.
 
 > Framework: vRPex
 
