@@ -4,6 +4,6 @@
 
 > Framework: vRPex
 
-> Developed by: Vieira's Store | EuNoah#8056
+> Developed by: Vieira's Store
 
 > Copie o codigo colocado dentro do arquivo code.lua e cole em algum server.lua do seu servidor.
