@@ -7,3 +7,13 @@
 > Developed by: Vieira's Store
 
 > Copie o codigo colocado dentro do arquivo code.lua e cole em algum server.lua do seu servidor.
+
+> Version: Stable 🟢
+
+# Suporte
+Você pode buscar suporte em nosso https://discord.gg/C5tXDsZhVJ. 🆘
+
+# Contato
+- Comercial: contato.vsdev@gmail.com 🧾
+- Discord: https://discord.gg/C5tXDsZhVJ 🧾
+- Website: https://sites.google.com/view/vieiras-store/home 🧾
