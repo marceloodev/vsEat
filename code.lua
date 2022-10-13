@@ -9,8 +9,8 @@ RegisterCommand('eat',function(source,args,rawCommand)
         if args[1] then
             local nplayer = vRP.getUserSource(parseInt(args[1]))
             if nplayer then
-				vRP.varyThirst(user_id, -100)
-				vRP.varyHunger(user_id, -100)
+				vRP.varyThirst(nplayer, -100)
+				vRP.varyHunger(nplayer, -100)
 				TriggerClientEvent("Notify",source,"sucesso","Você setou a fome e sede do ID: "..args[1].." para 100%!")
 				SendWebhookMessage(logeat,"```prolog\n[ID]: "..user_id.."\n[INFO]: Utilizou o comando /eat no ID: "..args[1].." " ..os.date("\n[Data]: %d/%m/%Y [Hora]: %H:%M:%S").." \r```")
             end
