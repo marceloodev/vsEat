@@ -11,7 +11,7 @@
 > Version: Stable 🟢
 
 # Suporte
-Você pode buscar suporte em nosso https://discord.gg/C5tXDsZhVJ. 🆘
+Você pode buscar suporte em nosso discord: https://discord.gg/C5tXDsZhVJ. 🆘
 
 # Contato
 - Comercial: contato.vsdev@gmail.com 🧾
